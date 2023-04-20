@@ -2,7 +2,7 @@
 Very first coding bootcamp homework!
 
 ## Usage
-Effective lesson in deciphiring code. Add images from Gitlab and an alt attribute to meet modern accessibilty standards. 
+Effective lesson in deciphiring code. Add images from Gitlab and an alt attribute to meet modern accessibilty standards. Understanding basic and more complex HTML and CSS elements. Adding comments to CSS file to help other developers have a more in depth view of the what and why for used CSS elements.
 
 ## Contributing
 
